@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Samed Manor</h1>
-<h3 align="center">I am an aspiring IT Specialist who loves to work on programming projects in C++. I am currently learning Object Oriented Programming.</h3>
+<h3 align="center">I am an experienced IT Specialist who loves to work on programming projects in C++. I am currently learning Object Oriented Programming.</h3>
 
 - 🔭 I’m currently working on [Bank Management System](https://github.com/Abdul-Samed688/Bank_Management_System)
 
